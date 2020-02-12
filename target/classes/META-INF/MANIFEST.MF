@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Implementation-Title: first-springboot-project
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: hp
-Implementation-Vendor-Id: com.project.springboot
+Implementation-Vendor-Id: com.in28minutes.springboot
 Build-Jdk: 1.8.0_231
 Implementation-URL: http://projects.spring.io/spring-boot/first-spring
  boot-project/
